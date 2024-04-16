@@ -104,7 +104,7 @@ a {
   color: #2e2f42;
   text-transform: capitalize;
 }
-.team-list-item{
+.team-list-item {
   background-color: #ffffff;
 }
 .team-subtitle {
@@ -113,7 +113,7 @@ a {
   line-height: 1.2;
   letter-spacing: 0.02em;
   text-align: center;
-  #2e2f42;
+  color: #2e2f42;
 }
 .team-text {
   font-weight: 400;
